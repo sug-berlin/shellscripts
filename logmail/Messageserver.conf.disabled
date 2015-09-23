@@ -1,0 +1,15 @@
+[FileLog]
+Enabled=0
+Path=/home/nemo/Documents/messageserver.log
+
+[LogCategories]
+IMAP=1
+Messaging=0
+POP=0
+SMTP=1
+
+[StdStreamLog]
+Enabled=0
+
+[Syslog]
+Enabled=0
